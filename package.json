@@ -1,0 +1,25 @@
+{
+  "name": "url-spectator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Somasekhar1712/url-spectator.git"
+  },
+  "keywords": [],
+  "author": "Somasekhar1712",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "url-metadata": "^2.5.0"
+  }
+}
