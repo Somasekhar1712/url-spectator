@@ -2,3 +2,5 @@
 .replit
 replit.nix
 .build
+package-lock.json
+node_modules
